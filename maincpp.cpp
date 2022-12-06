@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	cout << "hell oi" << endl;
+	cout << "hell oasdi" << endl;
 	return 0;
 }
